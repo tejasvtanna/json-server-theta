@@ -1,0 +1,126 @@
+{
+  "reviews": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "ratings": 5,
+      "review": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nis"
+    },
+    {
+      "id": 2,
+      "product_id": 1,
+      "ratings": 5,
+      "review": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nis"
+    },
+    {
+      "id": 3,
+      "product_id": 2,
+      "ratings": 5,
+      "review": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nis"
+    },
+    {
+      "id": 5,
+      "product_id": 2,
+      "ratings": 3,
+      "review": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nis"
+    },
+    {
+      "id": 6,
+      "product_id": 2,
+      "ratings": 3,
+      "review": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nis"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "The Pop Shoppe Pinapple",
+      "desc": "posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl",
+      "small_desc": "ultrices enim lorem ipsum",
+      "gender": "Male",
+      "ratings": 2,
+      "colors": [
+        "Violet",
+        "Crimson",
+        "Violet",
+        "Mauv"
+      ],
+      "brand": "a",
+      "price": 882,
+      "price_without_discount": 970.2,
+      "seller": "pede"
+    },
+    {
+      "id": 2,
+      "title": "Cookies - Assorted",
+      "desc": "eu nibh quisque id justo sit amet sapien dignissim vestibulum",
+      "small_desc": "leo odio porttitor id consequat",
+      "gender": "Female",
+      "ratings": 5,
+      "colors": [
+        "Violet",
+        "Yellow",
+        "Orange",
+        "Turquoise"
+      ],
+      "brand": "mattis egestas",
+      "price": 918,
+      "price_without_discount": 1009.8,
+      "seller": "hac"
+    },
+    {
+      "id": 3,
+      "title": "Chocolate - Mi - Amere Semi",
+      "desc": "sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue",
+      "small_desc": "orci nullam molestie nibh",
+      "gender": "Male",
+      "ratings": 4,
+      "colors": [
+        "Violet",
+        "Khaki",
+        "Green",
+        "Puce"
+      ],
+      "brand": "elit proin",
+      "price": 1324,
+      "price_without_discount": 1456.4,
+      "seller": "amet lobortis"
+    },
+    {
+      "id": 4,
+      "title": "Gatorade - Lemon Lime",
+      "desc": "orci luctus et ultrices posuere cubilia curae donec pharetra magna",
+      "small_desc": "in sagittis dui vel",
+      "gender": "Male",
+      "ratings": 3,
+      "colors": [
+        "Turquoise",
+        "Mauv",
+        "Puce",
+        "Blue"
+      ],
+      "brand": "ut at",
+      "price": 511,
+      "price_without_discount": 562.1,
+      "seller": "sem mauris"
+    },
+    {
+      "id": 5,
+      "title": "Cheese - Havarti, Salsa",
+      "desc": "mauris morbi non lectus aliquam sit amet diam in magna bibendum",
+      "small_desc": "porttitor lacus at turpis",
+      "gender": "Male",
+      "ratings": 5,
+      "colors": [
+        "Indigo",
+        "Fuscia",
+        "Puce",
+        "Mauv"
+      ],
+      "brand": "eu tincidunt",
+      "price": 1249,
+      "price_without_discount": 1373.9,
+      "seller": "posuere"
+    }
+  ]
+}
