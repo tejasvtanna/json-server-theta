@@ -73,4 +73,3 @@ Content-Type: application/json
 ### DELETE BY ID
 DELETE https://json-server-theta.herokuapp.com/products/11
 Content-Type: application/json
-# Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjksImlhdCI6MTU5NDE4NDc5N30.JXdUTFhrDUv6MnqP4_iGwvfm2SctTsPs2N9jw_Hg-l8
