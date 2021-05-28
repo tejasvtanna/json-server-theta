@@ -938,7 +938,7 @@
     {
       "id": 1,
       "userId": 1,
-      "productId": 48,
+      "productId": 1,
       "color": "Indigo",
       "size": "XS",
       "qty": 5
@@ -946,7 +946,7 @@
     {
       "id": 2,
       "userId": 2,
-      "productId": 167,
+      "productId": 2,
       "color": "Fuscia",
       "size": "3XL",
       "qty": 4
