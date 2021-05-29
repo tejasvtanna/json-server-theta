@@ -28,108 +28,123 @@
   "addresses": [
     {
       "id": 1,
-      "userId": 1,
-      "address": "2 Emmet Court",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "0 Sunbrook Court",
+      "state": "Porto",
+      "zip": "4625-604",
+      "city": "Lourido"
     },
     {
       "id": 2,
       "userId": 1,
-      "address": "365 Buena Vista Pass",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "address": "4 Grasskamp Court",
+      "state": null,
+      "zip": "43-410",
+      "city": "Zebrzydowice"
     },
     {
       "id": 3,
-      "userId": 3,
-      "address": "998 Vahlen Street",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "03219 Meadow Vale Parkway",
+      "state": null,
+      "zip": "5270",
+      "city": "Quilmes"
     },
     {
       "id": 4,
-      "userId": 1,
-      "address": "9 Prairie Rose Drive",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "748 Kedzie Terrace",
+      "state": null,
+      "zip": "181410",
+      "city": "Pytalovo"
     },
     {
       "id": 5,
-      "userId": 3,
-      "address": "8514 Little Fleur Road",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 1,
+      "address": "374 Fallview Lane",
+      "state": null,
+      "zip": null,
+      "city": "Zharkent"
     },
     {
       "id": 6,
       "userId": 2,
-      "address": "2608 Prentice Avenue",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "address": "9770 Sullivan Alley",
+      "state": null,
+      "zip": null,
+      "city": "Longhua"
     },
     {
       "id": 7,
-      "userId": 2,
-      "address": "69557 Buell Center",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 1,
+      "address": "908 American Lane",
+      "state": null,
+      "zip": null,
+      "city": "Iberia"
     },
     {
       "id": 8,
-      "userId": 1,
-      "address": "14980 Jenna Trail",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "40 Tony Pass",
+      "state": null,
+      "zip": "952-0304",
+      "city": "Kokubunji"
     },
     {
       "id": 9,
-      "userId": 3,
-      "address": "45745 Hansons Park",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "8 Paget Road",
+      "state": "British Columbia",
+      "zip": "V9A",
+      "city": "Victoria"
     },
     {
       "id": 10,
-      "userId": 2,
-      "address": "57 John Wall Plaza",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 1,
+      "address": "1 Mesta Avenue",
+      "state": "Leiria",
+      "zip": "3105-325",
+      "city": "Redinha"
     },
     {
       "id": 11,
       "userId": 1,
-      "address": "1 Kingsford Court",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "address": "6021 Hintze Street",
+      "state": null,
+      "zip": null,
+      "city": "Ciperang"
     },
     {
       "id": 12,
-      "userId": 3,
-      "address": "68 Surrey Court",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "43186 Bay Court",
+      "state": null,
+      "zip": "14800-000",
+      "city": "Araraquara"
     },
     {
       "id": 13,
-      "userId": 3,
-      "address": "7 School Pass",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 2,
+      "address": "62 Blackbird Drive",
+      "state": null,
+      "zip": "45650-000",
+      "city": "Ilhéus"
     },
     {
       "id": 14,
       "userId": 1,
-      "address": "3 Butterfield Hill",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "address": "5 Coolidge Pass",
+      "state": null,
+      "zip": "79600-000",
+      "city": "Três Lagoas"
     },
     {
       "id": 15,
-      "userId": 2,
-      "address": "0382 Victoria Terrace",
-      "state": "Abruzzi",
-      "zip": "65129"
+      "userId": 1,
+      "address": "43 Gale Circle",
+      "state": null,
+      "zip": "385274",
+      "city": "Starokorsunskaya"
     }
   ],
   "reviews": [
