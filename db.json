@@ -3965,8 +3965,8 @@
       "userId": 1,
       "contactPerson": "Prentiss McConnell",
       "address": "12778 Oak Place",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Chervonoarmiys’k"
     },
     {
@@ -3974,8 +3974,8 @@
       "userId": 1,
       "contactPerson": "Audry Shovell",
       "address": "4 Rowland Pass",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Pangkalan"
     },
     {
@@ -3983,7 +3983,7 @@
       "userId": 2,
       "contactPerson": "Banky Nevinson",
       "address": "19084 Kensington Alley",
-      "state": null,
+      "state": "Faro",
       "zip": "4600",
       "city": "San Salvador de Jujuy"
     },
@@ -3992,7 +3992,7 @@
       "userId": 1,
       "contactPerson": "Joice Iiannoni",
       "address": "83320 Sutherland Road",
-      "state": null,
+      "state": "Faro",
       "zip": "36-030",
       "city": "Błażowa"
     },
@@ -4001,8 +4001,8 @@
       "userId": 2,
       "contactPerson": "Justina Edinburgh",
       "address": "67082 Fallview Avenue",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "El Hamma"
     },
     {
@@ -4010,7 +4010,7 @@
       "userId": 2,
       "contactPerson": "Tansy Sneyd",
       "address": "2 Merrick Circle",
-      "state": null,
+      "state": "Faro",
       "zip": "08-455",
       "city": "Trojanów"
     },
@@ -4019,8 +4019,8 @@
       "userId": 1,
       "contactPerson": "Barnard Roughsedge",
       "address": "84584 Hansons Point",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Chabany"
     },
     {
@@ -4028,7 +4028,7 @@
       "userId": 1,
       "contactPerson": "Aubrey Gajownik",
       "address": "1893 Sherman Road",
-      "state": null,
+      "state": "Faro",
       "zip": "879-0444",
       "city": "Bibai"
     },
@@ -4037,8 +4037,8 @@
       "userId": 2,
       "contactPerson": "Chilton Dominik",
       "address": "834 Helena Park",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Arfará"
     },
     {
@@ -4046,8 +4046,8 @@
       "userId": 2,
       "contactPerson": "Kimmy Soame",
       "address": "7524 Delladonna Way",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Sindangrasa"
     },
     {
@@ -4055,8 +4055,8 @@
       "userId": 1,
       "contactPerson": "Althea Fishly",
       "address": "64 Sunfield Alley",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Lutou"
     },
     {
@@ -4064,7 +4064,7 @@
       "userId": 1,
       "contactPerson": "Loy Swetland",
       "address": "47 Evergreen Parkway",
-      "state": null,
+      "state": "Faro",
       "zip": "606950",
       "city": "Tonshayevo"
     },
@@ -4073,7 +4073,7 @@
       "userId": 2,
       "contactPerson": "Arly Mathouse",
       "address": "2 Waxwing Terrace",
-      "state": null,
+      "state": "Faro",
       "zip": "2445",
       "city": "Bantog"
     },
@@ -4082,8 +4082,8 @@
       "userId": 2,
       "contactPerson": "Lilith Pasque",
       "address": "0 Lerdahl Trail",
-      "state": null,
-      "zip": null,
+      "state": "Faro",
+      "zip": "8200-567",
       "city": "Sukawaris"
     }
   ]
