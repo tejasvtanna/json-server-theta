@@ -25,128 +25,6 @@
       "defaultAddressId": 3
     }
   ],
-  "addresses": [
-    {
-      "id": 1,
-      "userId": 2,
-      "address": "0 Sunbrook Court",
-      "state": "Porto",
-      "zip": "4625-604",
-      "city": "Lourido"
-    },
-    {
-      "id": 2,
-      "userId": 1,
-      "address": "4 Grasskamp Court",
-      "state": null,
-      "zip": "43-410",
-      "city": "Zebrzydowice"
-    },
-    {
-      "id": 3,
-      "userId": 2,
-      "address": "03219 Meadow Vale Parkway",
-      "state": null,
-      "zip": "5270",
-      "city": "Quilmes"
-    },
-    {
-      "id": 4,
-      "userId": 2,
-      "address": "748 Kedzie Terrace",
-      "state": null,
-      "zip": "181410",
-      "city": "Pytalovo"
-    },
-    {
-      "id": 5,
-      "userId": 1,
-      "address": "374 Fallview Lane",
-      "state": null,
-      "zip": null,
-      "city": "Zharkent"
-    },
-    {
-      "id": 6,
-      "userId": 2,
-      "address": "9770 Sullivan Alley",
-      "state": null,
-      "zip": null,
-      "city": "Longhua"
-    },
-    {
-      "id": 7,
-      "userId": 1,
-      "address": "908 American Lane",
-      "state": null,
-      "zip": null,
-      "city": "Iberia"
-    },
-    {
-      "id": 8,
-      "userId": 2,
-      "address": "40 Tony Pass",
-      "state": null,
-      "zip": "952-0304",
-      "city": "Kokubunji"
-    },
-    {
-      "id": 9,
-      "userId": 2,
-      "address": "8 Paget Road",
-      "state": "British Columbia",
-      "zip": "V9A",
-      "city": "Victoria"
-    },
-    {
-      "id": 10,
-      "userId": 1,
-      "address": "1 Mesta Avenue",
-      "state": "Leiria",
-      "zip": "3105-325",
-      "city": "Redinha"
-    },
-    {
-      "id": 11,
-      "userId": 1,
-      "address": "6021 Hintze Street",
-      "state": null,
-      "zip": null,
-      "city": "Ciperang"
-    },
-    {
-      "id": 12,
-      "userId": 2,
-      "address": "43186 Bay Court",
-      "state": null,
-      "zip": "14800-000",
-      "city": "Araraquara"
-    },
-    {
-      "id": 13,
-      "userId": 2,
-      "address": "62 Blackbird Drive",
-      "state": null,
-      "zip": "45650-000",
-      "city": "Ilhéus"
-    },
-    {
-      "id": 14,
-      "userId": 1,
-      "address": "5 Coolidge Pass",
-      "state": null,
-      "zip": "79600-000",
-      "city": "Três Lagoas"
-    },
-    {
-      "id": 15,
-      "userId": 1,
-      "address": "43 Gale Circle",
-      "state": null,
-      "zip": "385274",
-      "city": "Starokorsunskaya"
-    }
-  ],
   "reviews": [
     {
       "id": 1,
@@ -4070,6 +3948,143 @@
       "id": 10,
       "userId": 2,
       "productId": 27
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "userId": 1,
+      "contactPerson": "Ivory Karle",
+      "address": "536 Lake View Place",
+      "state": null,
+      "zip": null,
+      "city": "Varakļāni"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "contactPerson": "Nike Grahl",
+      "address": "866 Darwin Court",
+      "state": null,
+      "zip": null,
+      "city": "Pukou"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "contactPerson": "Lira Zannotti",
+      "address": "9 Oxford Alley",
+      "state": null,
+      "zip": null,
+      "city": "Balky"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "contactPerson": "Sheryl Erett",
+      "address": "749 Chinook Court",
+      "state": null,
+      "zip": null,
+      "city": "Lokoja"
+    },
+    {
+      "id": 5,
+      "userId": 2,
+      "contactPerson": "Garik Curtin",
+      "address": "15 Dawn Pass",
+      "state": "Texas",
+      "zip": "79171",
+      "city": "Amarillo"
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "contactPerson": "Gussy Fairlaw",
+      "address": "7988 Dottie Avenue",
+      "state": null,
+      "zip": null,
+      "city": "Ciekek"
+    },
+    {
+      "id": 7,
+      "userId": 1,
+      "contactPerson": "Minette Goodship",
+      "address": "2349 Gateway Point",
+      "state": null,
+      "zip": "58700-000",
+      "city": "Patos"
+    },
+    {
+      "id": 8,
+      "userId": 2,
+      "contactPerson": "Neila Jertz",
+      "address": "9363 American Alley",
+      "state": null,
+      "zip": null,
+      "city": "Cojata"
+    },
+    {
+      "id": 9,
+      "userId": 2,
+      "contactPerson": "Jacquetta Arangy",
+      "address": "06 Texas Hill",
+      "state": "Gävleborg",
+      "zip": "801 84",
+      "city": "Gävle"
+    },
+    {
+      "id": 10,
+      "userId": 2,
+      "contactPerson": "Karlotte Accomb",
+      "address": "4714 Johnson Park",
+      "state": null,
+      "zip": null,
+      "city": "Yuguan"
+    },
+    {
+      "id": 11,
+      "userId": 2,
+      "contactPerson": "Barthel Gennrich",
+      "address": "0 Hagan Way",
+      "state": null,
+      "zip": null,
+      "city": "Fenglu"
+    },
+    {
+      "id": 12,
+      "userId": 1,
+      "contactPerson": "Leia Burne",
+      "address": "568 Lakewood Lane",
+      "state": "Québec",
+      "zip": "T9M",
+      "city": "Neuville"
+    },
+    {
+      "id": 13,
+      "userId": 1,
+      "contactPerson": "Charmine Sephton",
+      "address": "9365 Welch Street",
+      "state": null,
+      "zip": null,
+      "city": "Sukoanyar"
+    },
+    {
+      "id": 14,
+      "userId": 1,
+      "contactPerson": "Roxanne Van Hove",
+      "address": "0 Northport Lane",
+      "state": null,
+      "zip": "87300-000",
+      "city": "Campo Mourão"
+    },
+    {
+      "id": 15,
+      "userId": 2,
+      "contactPerson": "Julina Jorat",
+      "address": "59 Southridge Trail",
+      "state": null,
+      "zip": null,
+      "city": "As Sulayyil"
     }
   ]
 }
