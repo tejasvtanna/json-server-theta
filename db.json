@@ -830,19 +830,19 @@
   "carts": [
     {
       "id": 1,
-      "userId": 1,
-      "productId": 1,
-      "color": "Indigo",
-      "size": "XS",
-      "qty": 5
+      "userId": 2,
+      "productId": 159,
+      "color": "Fuscia",
+      "size": "L",
+      "qty": 1
     },
     {
       "id": 2,
       "userId": 2,
-      "productId": 2,
-      "color": "Fuscia",
-      "size": "3XL",
-      "qty": 4
+      "productId": 185,
+      "color": "Red",
+      "size": "M",
+      "qty": 1
     }
   ],
   "products": [
