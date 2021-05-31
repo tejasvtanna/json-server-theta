@@ -866,7 +866,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -889,7 +889,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -912,7 +912,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -935,7 +935,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -958,7 +958,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -981,7 +981,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1004,7 +1004,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1027,7 +1027,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1050,7 +1050,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1073,7 +1073,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1096,7 +1096,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1119,7 +1119,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1142,7 +1142,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1165,7 +1165,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1188,7 +1188,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1211,7 +1211,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1234,7 +1234,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1257,7 +1257,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1280,7 +1280,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1303,7 +1303,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1326,7 +1326,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1349,7 +1349,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1372,7 +1372,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1395,7 +1395,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1418,7 +1418,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1441,7 +1441,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1464,7 +1464,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1487,7 +1487,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1510,7 +1510,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1533,7 +1533,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1556,7 +1556,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1579,7 +1579,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1602,7 +1602,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1625,7 +1625,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1648,7 +1648,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1671,7 +1671,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1694,7 +1694,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1717,7 +1717,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1740,7 +1740,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1763,7 +1763,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1786,7 +1786,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1809,7 +1809,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1832,7 +1832,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1855,7 +1855,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1878,7 +1878,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1901,7 +1901,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -1924,7 +1924,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1947,7 +1947,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1970,7 +1970,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -1993,7 +1993,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2016,7 +2016,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2039,7 +2039,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2062,7 +2062,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2085,7 +2085,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2108,7 +2108,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2131,7 +2131,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2154,7 +2154,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2177,7 +2177,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2200,7 +2200,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2223,7 +2223,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2246,7 +2246,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2269,7 +2269,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2292,7 +2292,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2315,7 +2315,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2338,7 +2338,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2361,7 +2361,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2384,7 +2384,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2407,7 +2407,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2430,7 +2430,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2453,7 +2453,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2476,7 +2476,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2499,7 +2499,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2522,7 +2522,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2545,7 +2545,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2568,7 +2568,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2591,7 +2591,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2614,7 +2614,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2637,7 +2637,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2660,7 +2660,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2683,7 +2683,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2706,7 +2706,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2729,7 +2729,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2752,7 +2752,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2775,7 +2775,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2798,7 +2798,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2821,7 +2821,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2844,7 +2844,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -2867,7 +2867,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2890,7 +2890,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2913,7 +2913,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2936,7 +2936,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2959,7 +2959,7 @@
         "http://dummyimage.com/160x70.png/ff4444/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -2982,7 +2982,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -3005,7 +3005,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -3028,7 +3028,7 @@
         "http://dummyimage.com/160x70.png/dddddd/000000"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -3051,7 +3051,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -3074,7 +3074,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     },
     {
@@ -3097,7 +3097,7 @@
         "http://dummyimage.com/160x70.png/cc0000/ffffff"
       ],
       "deliveryTime": "Within 1 week",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -3120,7 +3120,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Replacement Only"
     },
     {
@@ -3143,7 +3143,7 @@
         "http://dummyimage.com/160x70.png/5fa2dd/ffffff"
       ],
       "deliveryTime": "Within 3 days",
-      "deliveryCharge": "Free",
+      "deliveryCharge": 0,
       "returnReplace": "Return & Replace"
     }
   ],
