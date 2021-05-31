@@ -831,7 +831,7 @@
     {
       "id": 1,
       "userId": 2,
-      "productId": 159,
+      "productId": 1,
       "color": "Fuscia",
       "size": "L",
       "qty": 1
@@ -839,7 +839,7 @@
     {
       "id": 2,
       "userId": 2,
-      "productId": 185,
+      "productId": 2,
       "color": "Red",
       "size": "M",
       "qty": 1
