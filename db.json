@@ -810,24 +810,7 @@
       "reviewDate": "6/29/2020"
     }
   ],
-  "carts": [
-    {
-      "id": 1,
-      "userId": "IdsLn4Hk57PfesajMtolkR51pol1",
-      "productId": 1,
-      "color": "Fuscia",
-      "size": "L",
-      "qty": 1
-    },
-    {
-      "id": 2,
-      "userId": "IdsLn4Hk57PfesajMtolkR51pol1",
-      "productId": 2,
-      "color": "Red",
-      "size": "M",
-      "qty": 1
-    }
-  ],
+  "carts": [],
   "products": [
     {
       "id": 1,
