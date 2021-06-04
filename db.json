@@ -3768,43 +3768,6 @@
       "productId": 1
     }
   ],
-  "carts": [
-    {
-      "id": 1,
-      "userId": "XBTFAIN25md33dbqMgksekcWyKC3",
-      "productId": 1,
-      "color": "Fuscia",
-      "size": "L",
-      "qty": 1
-    }
-  ],
-  "orders": [
-    {
-      "id": 1,
-      "userId": "XBTFAIN25md33dbqMgksekcWyKC3",
-      "orderDate": "1/24/2021",
-      "orderStatus": 2,
-      "netPayableAmt": 123,
-      "products": [
-        {
-          "id": 196,
-          "title": "Shrimp - Baby, Cold Water",
-          "image": "http://picsum.photos/129x100.png",
-          "price": 322,
-          "color": "Green",
-          "size": "M",
-          "qty": 3
-        },
-        {
-          "id": 70,
-          "title": "Bread - French Baquette",
-          "image": "http://picsum.photos/141x100.png",
-          "price": 1139,
-          "color": "Purple",
-          "size": "XS",
-          "qty": 4
-        }
-      ]
-    }
-  ]
+  "carts": [],
+  "orders": []
 }
