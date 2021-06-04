@@ -3730,6 +3730,7 @@
       "userId": "XBTFAIN25md33dbqMgksekcWyKC3",
       "orderDate": "1/24/2021",
       "orderStatus": 2,
+      "netPayableAmt": 123,
       "products": [
         {
           "id": 196,
