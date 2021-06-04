@@ -3741,58 +3741,6 @@
           "qty": 4
         }
       ]
-    },
-    {
-      "id": 4,
-      "userId": "IdsLn4Hk57PfesajMtolkR51pol1",
-      "orderDate": "11/14/2020",
-      "orderStatus": 4,
-      "products": [
-        {
-          "id": 170,
-          "title": "Yogurt - Strawberry, 175 Gr",
-          "image": "http://picsum.photos/130x100.png",
-          "price": 1454,
-          "color": "Red",
-          "size": "XL",
-          "qty": 1
-        },
-        {
-          "id": 142,
-          "title": "Cheese - Mozzarella, Shredded",
-          "image": "http://picsum.photos/158x100.png",
-          "price": 1986,
-          "color": "Maroon",
-          "size": "S",
-          "qty": 5
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "userId": "IdsLn4Hk57PfesajMtolkR51pol1",
-      "orderDate": "2/24/2021",
-      "orderStatus": 1,
-      "products": [
-        {
-          "id": 52,
-          "title": "Sweet Pea Sprouts",
-          "image": "http://picsum.photos/191x100.png",
-          "price": 1564,
-          "color": "Red",
-          "size": "XL",
-          "qty": 4
-        },
-        {
-          "id": 187,
-          "title": "Spice - Chili Powder Mexican",
-          "image": "http://picsum.photos/177x100.png",
-          "price": 1567,
-          "color": "Red",
-          "size": "L",
-          "qty": 4
-        }
-      ]
     }
   ],
   "wishlist": [
