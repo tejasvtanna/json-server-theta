@@ -810,7 +810,16 @@
       "reviewDate": "6/29/2020"
     }
   ],
-  "carts": [],
+  "carts": [
+    {
+      "id": 1,
+      "userId": "XBTFAIN25md33dbqMgksekcWyKC3",
+      "productId": 1,
+      "color": "Fuscia",
+      "size": "L",
+      "qty": 1
+    }
+  ],
   "products": [
     {
       "id": 1,
@@ -3746,13 +3755,8 @@
   "wishlist": [
     {
       "id": 1,
-      "userId": "IdsLn4Hk57PfesajMtolkR51pol1",
+      "userId": "XBTFAIN25md33dbqMgksekcWyKC3",
       "productId": 1
-    },
-    {
-      "id": 2,
-      "userId": "IdsLn4Hk57PfesajMtolkR51pol1",
-      "productId": 2
     }
   ],
   "addresses": [
